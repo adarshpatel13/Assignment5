@@ -8,7 +8,7 @@ These are the libraries using import function.
 # Loading the dataset using 'pandas' library
 df = pd.read_csv("/Users/yashkunjadiya/Desktop/uni docs/1200/datasets/HousingNew.csv")
 here we read and load the data set of housingNEw.csv file from harddrive.
-df.head()
+#df.head()
 Using head function in python we retrive rows froms the data set
 df.tail()
 Using tail function in python we retrive last five rows froms the data set
